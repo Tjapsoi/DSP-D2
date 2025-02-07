@@ -13,3 +13,4 @@ This repository contains the code, data, and models used for the **Data Systems 
 - `data/` – Contains ground truth data and annotations from our experiments.  
   - `all_positives_with_tags_full.csv` – The ground truth dataset.  
 - `models/` – Includes the models used in our experiments via Hugging Face.  
+- `demo.py` – A demo script that simulates the annotation process
